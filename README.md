@@ -6,3 +6,6 @@ Also i will be making analysis, visualizations and some statistics to help you u
 after the data is loaded into my note book I used pandas to read the dataframe and visual inspect and begin analyzing and manipulating data
 I also installed keras and other machine learning libraries that i will be showing in my program. 
 I also trained the seperated the data into training and testing to choose the model that is most accurate. 
+
+
+![Machine_learning](file:///C:/Users/cdat2ray/Documents/GitHub/finalproject/Ocg404%20final%20presentation%20(1).pdf)
