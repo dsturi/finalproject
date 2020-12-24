@@ -8,4 +8,4 @@ I also installed keras and other machine learning libraries that i will be showi
 I also trained the seperated the data into training and testing to choose the model that is most accurate. 
 
 
-![Machine_learning](Ocg404%20final%20presentation%20(1).pdf)
+![Machine_learning](Ocg404%20final%20presentation%20(2).pdf)
